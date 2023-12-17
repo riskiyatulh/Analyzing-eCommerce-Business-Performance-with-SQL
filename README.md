@@ -1,1 +1,2 @@
 # Analyzing-eCommerce-Business-Performance-with-SQL
+Measuring business performance is very important to track, monitor and assess the success or failure of various business processes in a company. The objective is to analyze one of the largest marketplaces in South America that connects micro businesses with their customers about 3 aspects related to the company's business performance such as customer growth, product quality and payment type.
